@@ -32,7 +32,7 @@ const datasets = yLines.map((yLine, index) => ({
     
     label: `Line ${index + 1}`,
     data: [],
-    borderColor: "Red" ,
+    borderColor: "Green" ,
     borderWidth: 5,
     fill:{
         target: 'origin',
